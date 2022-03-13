@@ -307,7 +307,7 @@ body {
     justify-content: center;
     align-items: center;
     width: 1400px;
-    background-image: url('/assets/img/video-player.jpg');
+    background-image: url('./assets/img/video-player.jpg');
 }
 
 .play-button {
